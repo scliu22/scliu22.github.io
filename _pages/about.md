@@ -18,11 +18,11 @@ As of today, I'm actively investigating ways to improve the mathematical reasoni
 
 # Publications
 
-## Prepint
+## Preprints
 
 - [Can LLMs Convert Graphs to Text-Attributed Graphs?](https://arxiv.org/abs/2412.10136)  
   Zehong Wang, **Sidney Liu**, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye
 
 # News
 
-Check back when a paper is accepted!
+Check back here when a paper is accepted!
