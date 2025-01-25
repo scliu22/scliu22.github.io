@@ -25,4 +25,4 @@ As of today, I'm actively investigating ways to improve the mathematical reasoni
 
 # News
 
-- **01/2024** - One paper accepted by \*NAACL 25\*\* in the Main Conference.
+- **01/2024** - One paper accepted by **NAACL 25** in the Main Conference.
